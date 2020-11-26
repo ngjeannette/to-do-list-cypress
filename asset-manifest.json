@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/to-do-list-cypress/static/css/main.24dbfd78.chunk.css",
+    "main.js": "/to-do-list-cypress/static/js/main.379ff37a.chunk.js",
+    "main.js.map": "/to-do-list-cypress/static/js/main.379ff37a.chunk.js.map",
+    "runtime-main.js": "/to-do-list-cypress/static/js/runtime-main.35fcb890.js",
+    "runtime-main.js.map": "/to-do-list-cypress/static/js/runtime-main.35fcb890.js.map",
+    "static/js/2.256f2031.chunk.js": "/to-do-list-cypress/static/js/2.256f2031.chunk.js",
+    "static/js/2.256f2031.chunk.js.map": "/to-do-list-cypress/static/js/2.256f2031.chunk.js.map",
+    "static/js/3.e66668c2.chunk.js": "/to-do-list-cypress/static/js/3.e66668c2.chunk.js",
+    "static/js/3.e66668c2.chunk.js.map": "/to-do-list-cypress/static/js/3.e66668c2.chunk.js.map",
+    "index.html": "/to-do-list-cypress/index.html",
+    "static/css/main.24dbfd78.chunk.css.map": "/to-do-list-cypress/static/css/main.24dbfd78.chunk.css.map",
+    "static/js/2.256f2031.chunk.js.LICENSE.txt": "/to-do-list-cypress/static/js/2.256f2031.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35fcb890.js",
+    "static/js/2.256f2031.chunk.js",
+    "static/css/main.24dbfd78.chunk.css",
+    "static/js/main.379ff37a.chunk.js"
+  ]
+}
